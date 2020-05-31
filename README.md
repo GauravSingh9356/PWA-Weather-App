@@ -1,3 +1,5 @@
+<h1>Progressive Weather App</h1>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -26,6 +28,11 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>Screenshots</h2>
+<img src="Screenshot%20(67).png"/>
+<img src="Screenshot%20(69).png"/>
+<img src="Screenshot%20(71).png"/>
+<img src="Screenshot%20(73).png"/>
 
 ### `yarn eject`
 
@@ -66,3 +73,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
